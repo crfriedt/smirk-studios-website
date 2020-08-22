@@ -1,0 +1,25 @@
+.site-header{
+  background-color:rgb(59,50,81);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+
+.site-header a{
+  color: rgb(0,0,0);
+  transition: ease-in-out color .15s;
+}
+
+.pb-2, .py-2 {
+    padding-bottom: .5rem!important;
+}.pb-2, .py-2 {
+  padding-bottom: .5rem!important;
+}
+
+.banner{
+  background-image:url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
+  background-size: cover;
+
+}
+
+.card{
+  height:430px;
+}
